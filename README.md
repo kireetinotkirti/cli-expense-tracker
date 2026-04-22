@@ -1,8 +1,8 @@
-# 💰 CLI Expense Tracker
+#  CLI Expense Tracker
 
 A powerful command-line expense tracker built with Python.
 
-## ✨ Features
+##  Features
 
 * Add, edit, delete expenses
 * Categorization with colors
@@ -12,14 +12,14 @@ A powerful command-line expense tracker built with Python.
 * CSV import/export
 * Clean UI with ANSI colors
 
-## 📸 Preview
+##  Preview
 
 ```
 💰 CLI EXPENSE TRACKER
 Track • Categorize • Export
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-username/cli-expense-tracker.git
@@ -27,22 +27,22 @@ cd cli-expense-tracker
 python expense_tracker.py
 ```
 
-## 📂 Data Storage
+##  Data Storage
 
 * Uses `expenses.json` locally
 * CSV export supported
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 * Python (no external libraries)
 * JSON & CSV for storage
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * GUI version (Tkinter / Web)
 * Charts (matplotlib)
 * Cloud sync
 
-## 👨‍💻 Author
+##  Author
 
 Kireeti Dodla
