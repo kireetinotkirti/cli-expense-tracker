@@ -45,4 +45,4 @@ python expense_tracker.py
 
 ## 👨‍💻 Author
 
-Your Name
+Kireeti Dodla
